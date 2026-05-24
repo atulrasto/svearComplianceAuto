@@ -1,0 +1,6 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+svear_compliance.db
+generated_documents/
